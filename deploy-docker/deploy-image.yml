@@ -3,7 +3,7 @@
   hosts: all
   tasks:
     - name: Pull devops image
-    docker_image:
-      name: sandy7799/junit-devops
-      source: pull
+      docker_image:
+        name: sandy7799/junit-devops
+        source: pull
   
