@@ -2,7 +2,7 @@
 - name: Pull docker image of SPE_Mini_project
   hosts all
   tasks:
-    - name: devops image
+    - name: Pull devops image
     docker_image:
       name: sandy7799/junit-devops
       source: pull
