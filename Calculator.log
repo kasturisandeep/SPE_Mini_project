@@ -95,3 +95,83 @@
 [INFO ] 2023-03-20 14:19:52.861 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
 [INFO ] 2023-03-20 14:19:52.863 [main] Calculator - Square root of 64.0 is equal to: 8.0
 [INFO ] 2023-03-20 14:19:52.864 [main] Calculator - Square root of 25.0 is equal to: 5.0
+[INFO ] 2023-03-20 19:58:20.672 [main] Calculator - 2.0 power 8.0 is equal to: 256.0
+[INFO ] 2023-03-20 19:58:20.675 [main] Calculator - 5.0 power 3.0 is equal to: 125.0
+[INFO ] 2023-03-20 19:58:20.677 [main] Calculator - 8.0 power 2.0 is equal to: 64.0
+[INFO ] 2023-03-20 19:58:20.677 [main] Calculator - 2.0 power 5.0 is equal to: 32.0
+[INFO ] 2023-03-20 19:58:20.681 [main] Calculator - Factorial of 3.0 is equal to: 6
+[INFO ] 2023-03-20 19:58:20.681 [main] Calculator - Factorial of 5.0 is equal to: 120
+[INFO ] 2023-03-20 19:58:20.682 [main] Calculator - Factorial of 6.0 is equal to: 720
+[INFO ] 2023-03-20 19:58:20.682 [main] Calculator - Factorial of 4.0 is equal to: 24
+[INFO ] 2023-03-20 19:58:20.684 [main] Calculator - Natural Logarithm of 4.0 is equal to: 1.3862943611198906
+[INFO ] 2023-03-20 19:58:20.684 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 19:58:20.685 [main] Calculator - Natural Logarithm of 3.0 is equal to: 1.0986122886681098
+[INFO ] 2023-03-20 19:58:20.686 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 19:58:20.687 [main] Calculator - Square root of 50.0 is equal to: 7.0710678118654755
+[INFO ] 2023-03-20 19:58:20.688 [main] Calculator - Square root of 81.0 is equal to: 9.0
+[INFO ] 2023-03-20 19:58:20.689 [main] Calculator - Square root of 64.0 is equal to: 8.0
+[INFO ] 2023-03-20 19:58:20.689 [main] Calculator - Square root of 25.0 is equal to: 5.0
+[INFO ] 2023-03-20 19:58:57.027 [main] Calculator - 2.0 power 8.0 is equal to: 256.0
+[INFO ] 2023-03-20 19:58:57.030 [main] Calculator - 5.0 power 3.0 is equal to: 125.0
+[INFO ] 2023-03-20 19:58:57.031 [main] Calculator - 8.0 power 2.0 is equal to: 64.0
+[INFO ] 2023-03-20 19:58:57.031 [main] Calculator - 2.0 power 5.0 is equal to: 32.0
+[INFO ] 2023-03-20 19:58:57.036 [main] Calculator - Factorial of 3.0 is equal to: 6
+[INFO ] 2023-03-20 19:58:57.036 [main] Calculator - Factorial of 5.0 is equal to: 120
+[INFO ] 2023-03-20 19:58:57.037 [main] Calculator - Factorial of 6.0 is equal to: 720
+[INFO ] 2023-03-20 19:58:57.037 [main] Calculator - Factorial of 4.0 is equal to: 24
+[INFO ] 2023-03-20 19:58:57.041 [main] Calculator - Natural Logarithm of 4.0 is equal to: 1.3862943611198906
+[INFO ] 2023-03-20 19:58:57.042 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 19:58:57.042 [main] Calculator - Natural Logarithm of 3.0 is equal to: 1.0986122886681098
+[INFO ] 2023-03-20 19:58:57.043 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 19:58:57.043 [main] Calculator - Square root of 50.0 is equal to: 7.0710678118654755
+[INFO ] 2023-03-20 19:58:57.044 [main] Calculator - Square root of 81.0 is equal to: 9.0
+[INFO ] 2023-03-20 19:58:57.044 [main] Calculator - Square root of 64.0 is equal to: 8.0
+[INFO ] 2023-03-20 19:58:57.044 [main] Calculator - Square root of 25.0 is equal to: 5.0
+[INFO ] 2023-03-20 19:59:07.692 [main] Calculator - 2.0 power 8.0 is equal to: 256.0
+[INFO ] 2023-03-20 19:59:07.696 [main] Calculator - 5.0 power 3.0 is equal to: 125.0
+[INFO ] 2023-03-20 19:59:07.699 [main] Calculator - 8.0 power 2.0 is equal to: 64.0
+[INFO ] 2023-03-20 19:59:07.699 [main] Calculator - 2.0 power 5.0 is equal to: 32.0
+[INFO ] 2023-03-20 19:59:07.705 [main] Calculator - Factorial of 3.0 is equal to: 6
+[INFO ] 2023-03-20 19:59:07.705 [main] Calculator - Factorial of 5.0 is equal to: 120
+[INFO ] 2023-03-20 19:59:07.706 [main] Calculator - Factorial of 6.0 is equal to: 720
+[INFO ] 2023-03-20 19:59:07.706 [main] Calculator - Factorial of 4.0 is equal to: 24
+[INFO ] 2023-03-20 19:59:07.709 [main] Calculator - Natural Logarithm of 4.0 is equal to: 1.3862943611198906
+[INFO ] 2023-03-20 19:59:07.709 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 19:59:07.710 [main] Calculator - Natural Logarithm of 3.0 is equal to: 1.0986122886681098
+[INFO ] 2023-03-20 19:59:07.711 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 19:59:07.712 [main] Calculator - Square root of 50.0 is equal to: 7.0710678118654755
+[INFO ] 2023-03-20 19:59:07.712 [main] Calculator - Square root of 81.0 is equal to: 9.0
+[INFO ] 2023-03-20 19:59:07.714 [main] Calculator - Square root of 64.0 is equal to: 8.0
+[INFO ] 2023-03-20 19:59:07.714 [main] Calculator - Square root of 25.0 is equal to: 5.0
+[INFO ] 2023-03-20 20:00:35.704 [main] Calculator - 2.0 power 8.0 is equal to: 256.0
+[INFO ] 2023-03-20 20:00:35.707 [main] Calculator - 5.0 power 3.0 is equal to: 125.0
+[INFO ] 2023-03-20 20:00:35.709 [main] Calculator - 8.0 power 2.0 is equal to: 64.0
+[INFO ] 2023-03-20 20:00:35.709 [main] Calculator - 2.0 power 5.0 is equal to: 32.0
+[INFO ] 2023-03-20 20:00:35.715 [main] Calculator - Factorial of 3.0 is equal to: 6
+[INFO ] 2023-03-20 20:00:35.715 [main] Calculator - Factorial of 5.0 is equal to: 120
+[INFO ] 2023-03-20 20:00:35.716 [main] Calculator - Factorial of 6.0 is equal to: 720
+[INFO ] 2023-03-20 20:00:35.717 [main] Calculator - Factorial of 4.0 is equal to: 24
+[INFO ] 2023-03-20 20:00:35.721 [main] Calculator - Natural Logarithm of 4.0 is equal to: 1.3862943611198906
+[INFO ] 2023-03-20 20:00:35.722 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 20:00:35.723 [main] Calculator - Natural Logarithm of 3.0 is equal to: 1.0986122886681098
+[INFO ] 2023-03-20 20:00:35.723 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 20:00:35.724 [main] Calculator - Square root of 50.0 is equal to: 7.0710678118654755
+[INFO ] 2023-03-20 20:00:35.725 [main] Calculator - Square root of 81.0 is equal to: 9.0
+[INFO ] 2023-03-20 20:00:35.726 [main] Calculator - Square root of 64.0 is equal to: 8.0
+[INFO ] 2023-03-20 20:00:35.726 [main] Calculator - Square root of 25.0 is equal to: 5.0
+[INFO ] 2023-03-20 20:00:45.375 [main] Calculator - 2.0 power 8.0 is equal to: 256.0
+[INFO ] 2023-03-20 20:00:45.378 [main] Calculator - 5.0 power 3.0 is equal to: 125.0
+[INFO ] 2023-03-20 20:00:45.379 [main] Calculator - 8.0 power 2.0 is equal to: 64.0
+[INFO ] 2023-03-20 20:00:45.380 [main] Calculator - 2.0 power 5.0 is equal to: 32.0
+[INFO ] 2023-03-20 20:00:45.386 [main] Calculator - Factorial of 3.0 is equal to: 6
+[INFO ] 2023-03-20 20:00:45.386 [main] Calculator - Factorial of 5.0 is equal to: 120
+[INFO ] 2023-03-20 20:00:45.387 [main] Calculator - Factorial of 6.0 is equal to: 720
+[INFO ] 2023-03-20 20:00:45.387 [main] Calculator - Factorial of 4.0 is equal to: 24
+[INFO ] 2023-03-20 20:00:45.390 [main] Calculator - Natural Logarithm of 4.0 is equal to: 1.3862943611198906
+[INFO ] 2023-03-20 20:00:45.390 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 20:00:45.391 [main] Calculator - Natural Logarithm of 3.0 is equal to: 1.0986122886681098
+[INFO ] 2023-03-20 20:00:45.391 [main] Calculator - Natural Logarithm of 2.0 is equal to: 0.6931471805599453
+[INFO ] 2023-03-20 20:00:45.395 [main] Calculator - Square root of 50.0 is equal to: 7.0710678118654755
+[INFO ] 2023-03-20 20:00:45.395 [main] Calculator - Square root of 81.0 is equal to: 9.0
+[INFO ] 2023-03-20 20:00:45.397 [main] Calculator - Square root of 64.0 is equal to: 8.0
+[INFO ] 2023-03-20 20:00:45.397 [main] Calculator - Square root of 25.0 is equal to: 5.0

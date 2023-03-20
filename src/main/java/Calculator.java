@@ -48,55 +48,46 @@ public class Calculator {
 
             String opt = sc.nextLine();
 
-            switch(opt)
-            {
-                case "1":
+            switch (opt) {
+                case "1" -> {
                     System.out.println("Enter the number: ");
                     double number = sc.nextDouble();
-                    System.out.println("The square root of " + number + " is "+  squareroot_func(number));
+                    System.out.println("The square root of " + number + " is " + squareroot_func(number));
                     System.out.println();
-                    break;
-
-                case "2":
+                }
+                case "2" -> {
                     int num;
                     System.out.println("Enter the number: ");
                     double number1 = sc.nextDouble();
-                    num = (int)Math.floor(number1);
-                    if(num == number1)
-                    {
+                    num = (int) Math.floor(number1);
+                    if (num == number1) {
 
                         System.out.println("The factorial of " + num + " is " + factorial_func(number1));
                         System.out.println();
-                        break;
-                    }
-                    else {
+                    } else {
                         System.out.println("Enter only positive integers.");
                         System.out.println();
-                        break;
                     }
-
-                case "3":
+                }
+                case "3" -> {
                     System.out.println("Enter the number: ");
                     double number2 = sc.nextDouble();
-                    System.out.println("The natural log of " + number2 + " is "+  log_func(number2));
+                    System.out.println("The natural log of " + number2 + " is " + log_func(number2));
                     System.out.println();
-                    break;
-
-                case "4":
+                }
+                case "4" -> {
                     System.out.println("Enter the base number: ");
                     double number3 = sc.nextDouble();
                     System.out.println("Enter the exponential number: ");
                     double number4 = sc.nextDouble();
-                    System.out.println("The power of " + number3 + " to " + number4 + " is "+  power_func(number3, number4));
+                    System.out.println("The power of " + number3 + " to " + number4 + " is " + power_func(number3, number4));
                     System.out.println();
-                    break;
-
-                case "5":
-                    exit(0);
-
-                default:
+                }
+                case "5" -> exit(0);
+                default -> {
                     System.out.println("Enter the correct option");
                     System.out.println();
+                }
             }
 
         }
