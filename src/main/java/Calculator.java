@@ -65,7 +65,7 @@ public class Calculator {
                         System.out.println("The factorial of " + num + " is " + factorial_func(number1));
                         System.out.println();
                     } else {
-                        System.out.println("Enter only positive integers.");
+                        System.out.println("Enter only positive integers");
                         System.out.println();
                     }
                 }
