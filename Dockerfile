@@ -1,4 +1,4 @@
 FROM openjdk:17
-COPY target/Mini-Project-1.0.jar ./
+COPY target/Sci_Calculator-1.0-SNAPSHOT-jar-with-dependencies.jar  ./
 WORKDIR ./
-CMD ["java", "-cp", "Mini-Project-1.0.jar","Calculator"]
+CMD ["java", "-jar", "Sci_Calculator-1.0-SNAPSHOT-jar-with-dependencies.jar"]
