@@ -9,11 +9,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Mini-Project" />
+        <module name="Sci_Calculator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Mavenproject1" target="1.5" />
+      <module name="Mini-Project" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,27 +1,35 @@
 import java.util.*;
 import java.lang.Math;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import static java.lang.System.exit;
 
 public class Calculator {
-
+    private static final Logger logUtility = LogManager.getLogger(Calculator.class);
     public static double squareroot_func(double number)
     {
+        logUtility.info("Square root of "+number+" is equal to: "+ Math.sqrt(number));
         return Math.sqrt(number);
     }
 
     public static double factorial_func(double number)
     {
-        return (number == 1 || number == 0) ? 1 : number * factorial_func(number - 1);
+        int ans = 1;
+        for(int i = 1; i <= number; i++) ans = ans * i;
+        logUtility.info("Factorial of "+number+" is equal to: "+ ans);
+        return ans;
     }
 
     public static double log_func(double number)
     {
+        logUtility.info("Natural Logarithm of "+number+" is equal to: " + Math.log(number));
         return Math.log(number);
     }
 
     public static double power_func(double number1, double number2)
     {
+        logUtility.info(number1+ " power "+number2+" is equal to: " + Math.pow(number1, number2));
         return Math.pow(number1, number2);
     }
 
