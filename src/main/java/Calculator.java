@@ -85,7 +85,7 @@ public class Calculator {
                 }
                 case "5" -> exit(0);
                 default -> {
-                    System.out.println("Enter the correct option");
+                    System.out.println("Enter the correct option.");
                     System.out.println();
                 }
             }
